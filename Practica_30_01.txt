@@ -1,0 +1,181 @@
+    1  pwd
+ 
+    2  cd REPOSITORIO
+    3  git init
+    4  cd P_html
+    5  pwd
+    6  sdw
+    7  git config --globar user.name "XniriX"
+    8  git config --global user.name "XniriX"
+    9  sdw
+   10  swd
+   11  git config --global core.editor "code--wait"
+   12  git config --global e
+   13  git config --global -e
+   14  git config --global core.editor "code --wait"
+   15  git config --global -e
+   16  git config --global user.email "alonsogomez526mail.com"
+   17  git config --global -e
+   18  git --version
+   19  git config --global core.autocrlf true
+   20  git config --global -e
+   21  sdw
+   22  dsw
+   23  wsd
+   24  sdw
+   25  swd
+   26  ls
+   27  pwd
+   28  cd REPOSITORIO
+   29  cd P_HTML
+   30  pwd
+   31  ls
+   32  mkdir miweb
+   33  ls
+   34  cd miweb
+   35  git init
+   36  cd .git
+   37  ls-a
+   38  ls -a
+   39  cd..
+   40  cd ..
+   41  cd ..
+   42  code .
+   43  git status
+   44  git add .
+   45  git commit miweb
+   46  git add index.html
+   47  git status
+   48  git add miweb/
+   49  ls
+   50  git status
+   51  git status}
+   52  git status}
+   53  git status
+   54  git add index.html
+   55  git commit -b "Ingreso 3 de practica"
+   56  git commit -m "Ingreso 3 de practica"
+   57  git commit
+   58  git commit
+   59  git add index.html
+   60  git status
+   61  git commit
+   62  rm Ejemplo_2.txt
+   63  rm Ejemplo_dos.txt
+   64  rm Ejemplo_dos.md
+   65  git status
+   66  git add Ejemplo_dos.md
+   67  git status
+   68  git commit
+   69  git restore Ejemplo_dos.md
+   70  git restore Ejemplo_dos
+   71  git restore Ejemplo_dos.md
+   72  mv aaa.html ejemplo.html
+   73  ld
+   74  git ld
+   75  git --help
+   76  git ls
+   77  ls
+   78  git add ejemplo.html
+   79  git commit
+   80  git commit
+   81  git push
+   82  git add .
+   83  git commit -b "Intento 4"
+   84  git commit -m "Intento 4"
+   85  git push
+   86  git commit
+   87  git status
+   88  git status
+   89  git add.
+   90  git add .
+   91  git status
+   92  git commit -m "Archivos para no subir"
+   93  git push
+   94  git status -s
+   95  git status -s
+   96  git add .gitignore
+   97  git status -s
+   98  git commit
+   99  git push
+  100  git diff
+  101  git log
+  102  pdw
+  103  psw
+  104  pwd
+  105  cd REPOSITORIO/P_HTML
+  106  git status
+  107  git log --oneline
+  108  git log
+  109  git log --oneline
+  110  git restore --staged Ejemplo_dos.md
+  111  skdir hola.md
+  112  notepad hola.md
+  113  git add hola.md
+  114  rm hola.md
+  115  git status
+  116  git restore hola.md
+  117  ls
+  118  git rm hola ,md
+  119  git rm hola.md
+  120  git status
+  121  git -f hola.md
+  122  git rm -f hola.md
+  123  git status
+  124  git restore hola.md
+  125  notepad hola.md
+  126  rm -f hola.md
+  127  git status
+  128  git restore hola.md
+  129  notepad hola.md
+  130  git add hola.md
+  131  git status
+  132  git rm hola.md
+  133  rm hola.md
+  134  git status
+  135  git restore --staged hola.md
+  136  git status
+  137  ls
+  138  notepad hola.md
+  139  git add hola.md
+  140  rm hola.md
+  141  git status
+  142  git restore hola.md
+  143  git status
+  144  git ls
+  145  ls
+  146  git commit-m "Archivo borrado y recuperado"
+  147  git commit -m "Archivo borrado y recuperado"
+  148  git push
+  149  git branch
+  150  git branch
+  151  git checkout -b RamaB
+  152  notepad Rama_2.txt
+  153  git status
+  154  git add Rama_2.txt
+  155  git commit -b "Ingreso archivo rama secundaria"
+  156  git commit -m "Ingreso archivo rama secundaria"
+  157  git push
+  158  git log --oneline
+  159  cat Rama_2.txt
+  160  git checkout main
+  161  cat Rama_2.txt
+  162  git chechout RamaB
+  163  git chechkout RamaB
+  164  git checkout RamaB
+  165  ls
+  166  git checkout main
+  167  git checkout RamaB
+  168  git cat hola.md
+  169  cat hola.md
+  170  cat hola.md
+  171  git checkout main
+  172  git cat hola.md
+  173  cat hola.md
+  174  git merge RamaB
+  175  cat Rama_2.txt
+  176  git add .
+  177  git commit
+  178  git push
+  179  clear
+  180  history
